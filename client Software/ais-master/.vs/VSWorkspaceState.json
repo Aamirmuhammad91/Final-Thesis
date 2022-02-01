@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\proc",
+    "\\bin\\Debug\\proc\\inc",
+    "\\bin\\Debug\\proc\\lib",
+    "\\bin\\Debug\\proc\\src",
+    "\\bin\\Release"
+  ],
+  "SelectedNode": "\\bin\\Debug\\proc\\src\\udp_server.c",
+  "PreviewInSolutionExplorer": false
+}

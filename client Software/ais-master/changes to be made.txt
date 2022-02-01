@@ -1,0 +1,23 @@
+//#define Lightx_INIT()				rp_DpinSetDirection(RP_DIO2_P, RP_OUT),	\
+//						rp_DpinSetDirection(RP_DIO3_P, RP_OUT)
+
+//#define DIO3_P_ON					rp_DpinSetState( RP_LED3, RP_HIGH )
+//#define DIO2_P_ON					rp_DpinSetState( RP_LED2, RP_HIGH )
+//#define DIO3_P_OFF					rp_DpinSetState( RP_LED3, RP_LOW )
+//#define DIO2_P_OFF					rp_DpinSetState( RP_LED2, RP_LOW )
+
+// init here what you need
+//Lightx_INIT();
+
+
+//rp_DpinSetDirection(RP_DIO3_P, RP_OUT);
+//DIO3_P_ON;
+//DIO3_P_OFF;
+
+
+//rp_DpinSetDirection(RP_DIO2_P, RP_OUT);
+//DIO2_P_ON;
+//DIO2_P_OFF;
+ADAS		advanced driver assistant systems
+
+
